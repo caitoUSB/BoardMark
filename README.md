@@ -1,6 +1,7 @@
 # BoardMark
 
 Windows 平台的白板板书自动记录工具。程序常驻通知区域，通过屏幕采集与关键帧判定，在板书发生实质变化时保存整屏画面；课后可按「日期 / 学科」归档。
+这个软件全是AI写的！！！
 
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B%20x64-lightgrey.svg?style=flat-square)](#运行环境)
