@@ -1,0 +1,6 @@
+# 把提交里的本地邮箱映射到 GitHub 账号，
+# 让 GitHub 上的提交记录能正确归到 @caitoUSB 名下。
+#
+# 本机 git 默认邮箱是 caito@localhost（从未算作真实邮箱）。
+# 书写格式： 正确姓名 <正确邮箱>  历史姓名 <历史邮箱>
+Caito <caitoUSB@users.noreply.github.com> <caito@localhost>
