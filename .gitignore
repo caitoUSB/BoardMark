@@ -1,0 +1,37 @@
+# 密钥：settings.json 里存有用户的 API Key，程序在没有它时按默认值启动
+settings.json
+**/settings.json
+
+# 构建产物
+build/
+dist/
+*.o
+*.obj
+*.exe
+*.dll
+
+# 发布包：二进制不进 git，对外分发走 GitHub Releases
+release/*/
+release/*.zip
+release/*/*.zip
+*.zip
+
+# 第三方参考代码：来源与许可证待确认
+reference/
+
+# 运行时数据：录制结果与归档结果
+recordings/
+板书笔记/
+
+# 开发过程记录：只在本机保留
+docs/开发记录/
+
+# 编辑器与系统杂项
+.vscode/
+.idea/
+*.user
+*.autosave
+Thumbs.db
+Desktop.ini
+desktop.ini
+*.log

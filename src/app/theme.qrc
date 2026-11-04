@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/m3">
+        <file>icons/switch_off.svg</file>
+        <file>icons/switch_on.svg</file>
+        <file>icons/switch_off_disabled.svg</file>
+        <file>icons/chevron_down.svg</file>
+        <file>icons/chevron_up.svg</file>
+    </qresource>
+</RCC>
